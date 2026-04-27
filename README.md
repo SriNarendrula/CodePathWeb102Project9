@@ -2,7 +2,7 @@
 
 Submitted by: **Sri Narendrula**
 
-This web app: **insert description**
+This web app: **shows a forum of discussions on mario games**
 
 Time spent: **5** hours spent in total
 
